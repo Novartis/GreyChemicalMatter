@@ -17,7 +17,7 @@ For questions and feedback reach out to [Steffen Renner](mailto:steffen.renner@n
 The repository is organized into two folders: 
 * create_gcm: Jupyter notebooks to calculate GCM from cell HTS data and store it in an SQLite database 
 * gcm_tables: folder with the GCM data and Jupyter notebooks to extract data from the SQLite database 
-	* gcm.gcm_cpd_profile_scores.best.csv  - best scoring GCM compound for each GCM cluster from PubChem
+	* **gcm.gcm_cpd_profile_scores.best.csv  - best scoring GCM compound for each GCM cluster from PubChem**
 	* gcm.gcm_cpd_profile_scores.csv  - all compounds from PubChem GCM clusters with profile scores
 	* gcm.gcm_cpds_assay_activity.csv - all compounds from PubChem GCM clusters with all cell HTS assay data
 	* gcm.gcm_cluster_assay_stat.csv - assay enrichment data for all PubChem GCM clusters
